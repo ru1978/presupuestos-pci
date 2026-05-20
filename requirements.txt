@@ -2,7 +2,7 @@ streamlit
 pandas
 pdfplumber
 XlsxWriter
-chromadb
 openai
 openpyxl
-pydantic
+pydantic==2.6.4
+chromadb
