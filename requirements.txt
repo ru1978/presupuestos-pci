@@ -1,1 +1,8 @@
-streamlit==1.32.0pandas==2.2.1pdfplumber==0.11.0XlsxWriter==3.2.0chromadb==0.4.24openai==1.14.0openpyxl==3.1.2pydantic==2.6.4
+streamlit==1.32.0
+pandas==2.2.1
+pdfplumber==0.11.0
+XlsxWriter==3.2.0
+chromadb==0.4.24
+openai==1.14.0
+openpyxl==3.1.2
+pydantic==2.6.4
